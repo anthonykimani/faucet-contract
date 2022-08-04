@@ -1,0 +1,5 @@
+We can use React as a front-end for blockchain application.
+
+Truffle setups the development environment for smart contracts and for the ethereum virtual machine.
+
+Ganache simulates a Private blockchain of the ethereum network.
